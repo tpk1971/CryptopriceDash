@@ -1,0 +1,20 @@
+{
+  "name": "cryptoprice-dash",
+  "description": "Polymer 2.0 Tutorial",
+  "main": "",
+  "authors": [
+    "TPK"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
